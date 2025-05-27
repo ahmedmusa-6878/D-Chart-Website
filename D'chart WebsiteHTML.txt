@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>D'chart Trading Hub</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
+        header { background: #014421; color: #fff; padding: 20px 0; text-align: center; }
+        section { margin: 20px 0; }
+        h2 { color: #014421; }
+        .container { max-width: 900px; margin: auto; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to D'chart Trading Hub</h1>
+        <p>Empowering Agriculture, One Trade at a Time</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>About D'chart</h2>
+            <p>D'chart Trading Hub was born out of real, boots-on-the-ground experience in agriculture and commodity trading in Nigeria. Founded by a former quality control officer who rose to become an operations manager, the business has grown with deep insights and resilience.</p>
+        </section>
+        <section>
+            <h2>Vision & Goal</h2>
+            <p>To grow our working capital from ₦2,000,000 to ₦20,000,000 in two years by focusing on commodity trading and dry season farming, delivering consistent returns and community empowerment.</p>
+        </section>
+        <section>
+            <h2>Core Activities</h2>
+            <ul>
+                <li>Commodity Aggregation & Trade</li>
+                <li>Dry Season Crop Cultivation</li>
+                <li>Farmer Network Development</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Why Invest in Us?</h2>
+            <p>We are highly connected with key commodity processors in Nigeria, operate with integrity, and have a strong understanding of local market dynamics. Our scalable strategy ensures steady turnover and long-term sustainability.</p>
+        </section>
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: info@dchart.ng<br>Phone: +234-000-000-0000</p>
+        </section>
+    </div>
+</body>
+</html>
